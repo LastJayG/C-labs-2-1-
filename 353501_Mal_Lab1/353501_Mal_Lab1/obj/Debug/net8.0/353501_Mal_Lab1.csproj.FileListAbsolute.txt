@@ -1,0 +1,17 @@
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\353501_Mal_Lab1.exe
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\353501_Mal_Lab1.deps.json
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\353501_Mal_Lab1.runtimeconfig.json
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\353501_Mal_Lab1.dll
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\353501_Mal_Lab1.pdb
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.AssemblyInfoInputs.cache
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.AssemblyInfo.cs
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.csproj.CoreCompileInputs.cache
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.dll
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\refint\353501_Mal_Lab1.dll
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.pdb
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.genruntimeconfig.cache
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\ref\353501_Mal_Lab1.dll
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\bin\Debug\net8.0\Generic.Math.dll
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_Mal_Lab1.csproj.AssemblyReference.cache
+D:\Универ\C# лабы 1 сем (2 курс)\353501_Mal_Lab1\353501_Mal_Lab1\obj\Debug\net8.0\353501_M.0DCADC78.Up2Date

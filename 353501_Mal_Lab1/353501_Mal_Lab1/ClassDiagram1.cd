@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_353501_Mal_Lab1.Entities.Journal">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="_353501_Mal_Lab1.Entities.Journal.EventLoggedHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Journal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAABAAAAAAAAAAAAAEAAAAABAAIAAAA=</HashCode>
+      <FileName>Entities\Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353501_Mal_Lab1.Entities.HousingMaintenanceSystem">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAoAAgAEAEAAAAACACAAAABAAIAIAA=</HashCode>
+      <FileName>Entities\HousingMaintananceSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="residents" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_353501_Mal_Lab1.Entities.Tariff">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Tariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_353501_Mal_Lab1.Entities.Resident">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="_353501_Mal_Lab1.Entities.Resident.ResidentActionHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Resident.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIAAAAAAAAEAAAABAAACAABAAAAAAACAAA=</HashCode>
+      <FileName>Entities\Resident.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="tariffs" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="_353501_Mal_Lab1.Collections.MyCustomCollection&lt;T&gt;">
+    <Position X="11.25" Y="1.75" Width="2.25" />
+    <NestedTypes>
+      <Class Name="_353501_Mal_Lab1.Collections.MyCustomCollection&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collections\MyCustomCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIAAAACAAACBBAADACABgQQAAgAAAAFIAAAAAAAAAA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="_353501_Mal_Lab1.Contracts.IHMSystem">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAoAAgAEAAAAAAACACAAAAAAAAAIAA=</HashCode>
+      <FileName>Contracts\IHMSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_353501_Mal_Lab1.Interfaces.ICustomCollection&lt;T&gt;">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAABAAACACABgQAAAgAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
